@@ -1,0 +1,18 @@
+﻿---
+ID: "69bf5aa4-b544-4f13-81cf-ec514c93df56"
+Parent: "dcb3c921-7d58-4ab5-a257-c3112f4f89c3"
+Template: "35c61e90-47dd-43dd-83a8-d1c4d5119720"
+Path: /sitecore/layout/Layouts/Project/BasicCompany/JSS Layout
+DB: master
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20220317T112536Z
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\Admin

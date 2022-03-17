@@ -1,0 +1,25 @@
+﻿---
+ID: "b10db745-2b8a-410e-bdec-07791190b599"
+Parent: "59b41b5f-e22e-460b-941e-fb64fe8da8fc"
+Template: "a6868d65-d612-401f-a40a-cd5ba0857b81"
+Path: /sitecore/system/Settings/Services/API Keys/API Key
+DB: master
+SharedFields:
+- ID: "780c8e48-fe03-4a73-90dc-9bb5296b95d7"
+  Hint: CORS Origins
+  Value: *
+- ID: "99ba91ec-f0d3-4372-b638-67c2402a2484"
+  Hint: AllowedControllers
+  Value: *
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20220314T143649Z
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\Admin
